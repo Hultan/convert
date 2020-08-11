@@ -1,3 +1,3 @@
-Takes all **webp** images in a directory and saves them as **jpg** images into the same directory. The **webp** files are also deleted afterwards.
+Converts a single **webp** image to a **jpg** image and saves it into the same directory. The **webp** image is removed afterwards.
 
 **usage : convert [directory]**
